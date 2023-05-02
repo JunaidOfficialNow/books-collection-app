@@ -1,7 +1,7 @@
 {
   "name": "books-collection-app",
   "short_name": "books-collection-app",
-  "theme_color": "#1976d2",
+  "theme_color": "#23272a",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
